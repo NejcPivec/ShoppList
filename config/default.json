@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://nejc123:nejc123@shoppinglist-g4cpo.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
