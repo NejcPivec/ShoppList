@@ -2,6 +2,11 @@
 
 A simple app to track the products you need to buy.
 
+## Technologies used:
+
+- React
+- MongoDB
+
 ## Usage
 
 Install dependencies
