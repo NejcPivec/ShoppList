@@ -6,6 +6,7 @@ A simple app to track the products you need to buy.
 
 - React
 - MongoDB
+- Express
 
 ## Usage
 
