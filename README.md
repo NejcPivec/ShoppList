@@ -105,6 +105,10 @@ Create your /config/default.json file to include the correct MongoDB URI and JWT
   - Body:
     > `{ "msg": "Item Deleted" }`
 
+# Website ScreenShot
+
+![ShoppingList](https://github.com/NejcPivec/ShoppList/blob/master/images/shoppList.png)
+
 # Online Website
 
 [ShoppList](https://sleepy-reef-18567.herokuapp.com/register)
